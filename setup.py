@@ -5,10 +5,10 @@ with open('README.md', 'r', encoding='utf-8') as fh:
 
 setuptools.setup(
     name='klippiesncola',
-    author='Tom Chen',
-    author_email='tomchen.org@gmail.com',
-    description='Example PyPI (Python Package Index) Package',
-    keywords='example, pypi, package',
+    author='Kearabiloe Ledwaba',
+    author_email='kearabiloe.ledwaba@gmail.com',
+    description='Manage company VoIP call logs, recordings and more',
+    keywords='voip, team, switchtel, trello',
     long_description=long_description,
     long_description_content_type='text/markdown',
     url='https://github.com/kearabiloe/klippiesncola',
@@ -17,7 +17,7 @@ setuptools.setup(
         'Bug Reports':
         'https://github.com/kearabiloe/klippiesncola/issues',
         'Source Code': 'https://github.com/kearabiloe/klippiesncola',
-        # 'Funding': '',
+        #'Funding': '',
         # 'Say Thanks!': '',
     },
     package_dir={'': 'src'},
