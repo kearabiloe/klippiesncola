@@ -18,10 +18,10 @@ pip install klippiesncola
 ```
 ### 2. Set environment variables
 ```sh
-EXPORT SWITCHTEL_USERNAME='changeme'
-EXPORT SWITCHTEL_PASSWORD='changeme'
-EXPORT SWITCHTEL_VPBXNAME='changeme'
-EXPORT SWITCHTEL_VPBXID='changeme'
+export SWITCHTEL_USERNAME='changeme'
+export SWITCHTEL_PASSWORD='changeme'
+export SWITCHTEL_VPBXNAME='changeme'
+export SWITCHTEL_VPBXID='changeme'
 ```
 ### 3. Import klippiesncola and test switchtel module
 
